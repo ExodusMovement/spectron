@@ -1,5 +1,5 @@
 {
-  "name": "spectron",
+  "name": "@exodus/spectron",
   "version": "19.0.0",
   "description": "Easily test your Electron apps using ChromeDriver and WebdriverIO.",
   "main": "index.js",
